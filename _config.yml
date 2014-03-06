@@ -1,5 +1,5 @@
 name: Erik Hollembeak
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: pretty
 
