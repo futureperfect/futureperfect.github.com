@@ -29,24 +29,45 @@ a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
 
+.group:before, .group:after {
+  content: "";
+  display: table;
+}
+
+.group:after {
+  clear: both;
+}
+.group {
+  zoom: 1; /* IE6&7 */
+}
+
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
-ul.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-}
-
-ul.posts li {
+section p {
   line-height: 1.75em;
 }
 
-ul.posts span {
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  line-height: 1.75em;
+}
+
+.posts time  {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
+  float: left;
+  display: inline;
+  margin-right: 1em;
+}
+
+.posts article h2 {
+  font-weight: normal;
+  display: inline;
 }
 
 /*****************************************************************************/
@@ -92,7 +113,7 @@ ul.posts span {
   color: #000;
 }
 
-.site .meta {
+.meta, time {
   color: #aaa;
 }
 
