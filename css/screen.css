@@ -1,0 +1,220 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 1, ../../_sass/reset.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 6, ../../_sass/reset.scss */
+html, body {
+  height: 100%;
+}
+
+/* line 8, ../../_sass/reset.scss */
+body {
+  background-color: #FFF;
+  font: 13.34px Helvetica, Arial, sans-serif;
+  font-size: small;
+  text-align: center;
+}
+
+/* line 15, ../../_sass/reset.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+/* line 18, ../../_sass/reset.scss */
+h1 {
+  margin-bottom: 1em;
+}
+
+/* line 19, ../../_sass/reset.scss */
+p {
+  margin: 1em 0;
+}
+
+/* line 21, ../../_sass/reset.scss */
+a {
+  color: #00a;
+}
+
+/* line 22, ../../_sass/reset.scss */
+a:hover {
+  color: #000;
+}
+
+/* line 23, ../../_sass/reset.scss */
+a:visited {
+  color: #a0a;
+}
+
+/* line 9, ../../_sass/screen.scss */
+.group:before, .group:after {
+  content: "";
+  display: table;
+}
+
+/* line 14, ../../_sass/screen.scss */
+.group:after {
+  clear: both;
+}
+
+/* line 17, ../../_sass/screen.scss */
+.group {
+  zoom: 1;
+  /* IE6&7 */
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+/* line 26, ../../_sass/screen.scss */
+section p {
+  line-height: 1.75em;
+}
+
+/* line 30, ../../_sass/screen.scss */
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+  line-height: 1.75em;
+}
+
+/* line 38, ../../_sass/screen.scss */
+.posts time, .posts article h2 {
+  display: inline-block;
+}
+/* line 42, ../../_sass/screen.scss */
+.posts time {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+  float: left;
+  margin-right: 1em;
+}
+/* line 50, ../../_sass/screen.scss */
+.posts article {
+  text-align: left;
+}
+/* line 53, ../../_sass/screen.scss */
+.posts article h2 {
+  font-weight: normal;
+}
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+/* line 65, ../../_sass/screen.scss */
+.site {
+  font-size: 115%;
+  text-align: justify;
+  max-width: 42em;
+  margin: 3em auto 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  line-height: 1.5em;
+}
+/* line 75, ../../_sass/screen.scss */
+.site header a {
+  font-weight: bold;
+  text-decoration: none;
+}
+/* line 80, ../../_sass/screen.scss */
+.site header h1.title {
+  display: inline-block;
+  margin-bottom: 2em;
+}
+/* line 83, ../../_sass/screen.scss */
+.site header h1.title a {
+  color: #a00;
+}
+/* line 86, ../../_sass/screen.scss */
+.site header h1.title a:hover {
+  color: #000;
+}
+/* line 89, ../../_sass/screen.scss */
+.site header h1.title a.extra {
+  color: #aaa;
+  margin-left: 1em;
+}
+/* line 93, ../../_sass/screen.scss */
+.site header h1.title a.extra:hover {
+  color: #000;
+}
+/* line 99, ../../_sass/screen.scss */
+.site footer {
+  font-size: 80%;
+  color: #666;
+  border-top: 4px solid #eee;
+  margin-top: 2em;
+  overflow: hidden;
+}
+/* line 106, ../../_sass/screen.scss */
+.site footer .contact {
+  float: left;
+  margin-right: 3em;
+}
+/* line 109, ../../_sass/screen.scss */
+.site footer .contact a {
+  color: #8085C1;
+}
+
+/* line 116, ../../_sass/screen.scss */
+.meta, time {
+  color: #aaa;
+}
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+/* standard */
+/* line 129, ../../_sass/screen.scss */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .4em;
+}
+
+/* line 135, ../../_sass/screen.scss */
+.post ul, .post ol {
+  margin-left: 1.35em;
+}
+
+/* line 139, ../../_sass/screen.scss */
+.post code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0 .2em;
+}
+
+/* line 145, ../../_sass/screen.scss */
+.post pre code {
+  border: none;
+}
+
+/* terminal */
+/* line 150, ../../_sass/screen.scss */
+.post pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+/* line 156, ../../_sass/screen.scss */
+.post pre.terminal code {
+  background-color: #333;
+}
+
+/* line 160, ../../_sass/screen.scss */
+.post h1 {
+  text-align: left;
+}
