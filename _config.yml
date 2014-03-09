@@ -2,4 +2,6 @@ name: Erik Hollembeak
 markdown: kramdown
 pygments: true
 permalink: pretty
+gems:
+- jekyll-compass
 
