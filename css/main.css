@@ -61,7 +61,7 @@ ul.posts {
   font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
   float: left;
-  display: inline;
+  display: inline-block;
   margin-right: 1em;
 }
 
@@ -71,7 +71,7 @@ ul.posts {
 
 .posts article h2 {
   font-weight: normal;
-  display: inline;
+  display: inline-block;
 }
 
 /*****************************************************************************/
