@@ -1,9 +1,4 @@
----
-title: Practice Software Engineering Interview Questions
-tags:
-- interviewing
-- engineering
----
+# Practice Software Engineering Interview Questions
 
 Here are some small, simple software engineering interview questions
 I've collected. I've been getting a lot of requests for them of late
