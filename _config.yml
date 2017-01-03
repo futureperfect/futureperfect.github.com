@@ -3,3 +3,5 @@ markdown: kramdown
 highlighter: pygments
 permalink: pretty
 
+
+theme: jekyll-theme-minimal
