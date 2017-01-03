@@ -15,12 +15,12 @@ learning. In a past life I was [pretty decent at polymer chemistry](http://www.n
 * [Vocalocity](http://vocalocity.com): Simple VoIP telephony for small businesses.
   [Acquired in Oct 2013](http://techoperators.com/portfolio/vocalocity-acquired-vonage-vg)
   by [Vonage](http://www.vonage.com)
-* <a href="http://www.dungeonhighwayadventures.com">Dungeon Highway Adventures:</a>
-  Mixed 2D/3D shooter with an 8-bit aesthetic created with <a href="http://www.unity3d.com">Unity</a> for iOS and Android.
-* <a href="http://liquidtext.net">LiquidText:</a> An interface
-  supporting active reading on multitouch displays.</li>
-* <a href="http://ballisticpigeon.com/folio">Folio:</a> A
-  PDF reader for iPad and iPhone.
+* [Dungeon Highway Adventures](http://www.dungeonhighwayadventures.com): Mixed
+  2D/3D shooter with an 8-bit aesthetic created with [Unity](http://www.unity3d.com)
+  for iOS and Android.
+* [LiquidText](http://liquidtext.net): An interface supporting active reading on
+  multitouch displays.
+* [Folio](http://ballisticpigeon.com/folio): A PDF reader for iPad and iPhone.
 
 # Writing
 
