@@ -3,7 +3,7 @@
 I'm a software engineer located in Seattle, Washington. I have experience with
 web service engineering and mobile application development (primarily iOS).
 My education and interests include user experience, algorithms, and machine
-learning. In a past life I was [pretty decent at polymer chemistry](http://www.ncbi.nlm.nih.gov/pubmed/15754386)
+learning. In a past life I was [pretty decent at polymer chemistry.](http://www.ncbi.nlm.nih.gov/pubmed/15754386)
 
 # Selected Work
 
