@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Practice Software Engineering Interview Questions
 tags:
 - interviewing
