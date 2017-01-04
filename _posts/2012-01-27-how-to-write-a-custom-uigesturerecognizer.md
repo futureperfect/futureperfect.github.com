@@ -1,5 +1,6 @@
-# How to Write a Custom UIGestureRecognizer
-
+----
+- title: How to Write a Customer UIGestureRecognizer
+----
 Here's a custom UIGestureRecognizer I've written to demonstrate recognizing
 continuous gestures.
 
