@@ -8,7 +8,11 @@ learning. In a past life I was [pretty decent at polymer chemistry.](http://www.
 # Selected Work
 
 * [IBM Bluemix](https://www.ibm.com/cloud-computing/bluemix/): Private
-  Cloud-as-a-Service, powered by OpenStack
+  Cloud-as-a-Service, powered by OpenStack. Developed internal and
+  customer-facing tooling to enable deployment and management of private and
+  hybrid cloud infrastructure including bare metal and virtualized compute
+  instances, load-balancing, software-defined networking, block storage, and
+  object storage.
 * [Amazon Local](http://local.amazon.com): Discount local services from the
   world's most trusted company. Built mobile clients and service infrastructure
   servicing millions of customers and merchants.
@@ -21,9 +25,12 @@ learning. In a past life I was [pretty decent at polymer chemistry.](http://www.
 * [LiquidText](http://liquidtext.net): An interface supporting active reading on
   multitouch displays.
 * [Folio](http://ballisticpigeon.com/folio): A PDF reader for iPad and iPhone.
+* [Today I Learned](http://til.tense.io): short write-ups of day-to-day
+  engineering and development learning
 
 # Writing
 
 {% for post in site.posts %}
 * [{{ post.title }}]( {{ post.url }} )
 {% endfor %}
+
