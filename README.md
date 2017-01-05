@@ -31,6 +31,6 @@ learning. In a past life I was [pretty decent at polymer chemistry.](http://www.
 # Writing
 
 {% for post in site.posts %}
-* [{{ post.title }}]( {{ post.url }} )
+* [{{ post.title }}]( {{ post.url }} ) {{ post.date | date_to_long_string }}
 {% endfor %}
 
