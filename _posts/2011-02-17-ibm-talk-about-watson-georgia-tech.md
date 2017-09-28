@@ -1,7 +1,6 @@
 ---
 title: IBM Watson @ Georgia Tech
 ---
-# IBM Watson @ Georgia Tech
 
 I went to a really interesting talk about IBM’s Watson by Bill
 Murdock, a member of the Algorithms team (and fellow Georgia Tech
