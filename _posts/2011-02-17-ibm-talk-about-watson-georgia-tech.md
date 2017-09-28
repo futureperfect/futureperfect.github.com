@@ -1,5 +1,7 @@
 ---
 title: IBM Watson @ Georgia Tech
+layout: post
+tags: [machine-learning, research]
 ---
 
 I went to a really interesting talk about IBM’s Watson by Bill

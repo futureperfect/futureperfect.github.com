@@ -1,5 +1,7 @@
 ---
 title: How to Write a Custom UIGestureRecognizer
+layout: post
+tags: [iOS, tutorial]
 ---
 
 ![Press Drag gesture recognizer]({{site.url}}/assets/press-drag.png)

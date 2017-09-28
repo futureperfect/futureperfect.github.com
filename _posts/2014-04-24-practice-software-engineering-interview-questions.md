@@ -1,5 +1,7 @@
 ---
 title: Practice Software Engineering Interview Questions
+layout: post
+tags: [interview]
 ---
 
 Here are some small, simple software engineering interview questions
