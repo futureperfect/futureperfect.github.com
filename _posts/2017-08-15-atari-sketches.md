@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atari 2600 Sketches
+title: Atari 2600 Sketches No. 1
 tags: [atari]
 ---
 
