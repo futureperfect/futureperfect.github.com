@@ -2,6 +2,8 @@
 title: How to Write a Custom UIGestureRecognizer
 ---
 
+![Press Drag gesture recognizer]({{site.url}}/assets/press-drag.png)
+
 Here's a custom UIGestureRecognizer I've written to demonstrate recognizing
 continuous gestures.
 
