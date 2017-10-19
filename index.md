@@ -44,11 +44,6 @@ In a past life I was [pretty okay at polymer chemistry.](http://www.ncbi.nlm.nih
   <dd>
     A PDF reader for iPad and iPhone.
   </dd>
-
-  <dt><a href="http://til.tense.io">Today I Learned</a></dt>
-  <dd>
-    Short write-ups of day-to-day engineering and development learning
-  </dd>
 </dl>
 
 # Writing
