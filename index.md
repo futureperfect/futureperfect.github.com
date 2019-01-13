@@ -8,7 +8,14 @@ In a past life I was [pretty okay at polymer chemistry.](http://www.ncbi.nlm.nih
 # Selected Work
 
 <dl>
-  <dt><a href="https://www.ibm.com/cloud-computing/bluemix/">IBM Bluemix</a></dt>
+  <dt><a href="https://www.ibm.com/cloud/object-storage">IBM Cloud Object Storage</a></dt>
+  <dd>
+    Public cloud object storage service. Developed tools and infrastructure to
+    support critical business goals, particularly external monitoring of service
+    reliability and delivering customer audit log support across datacenters.
+  </dd>
+
+  <dt><a href="https://www.ibm.com/cloud/private">IBM Bluemix Private Cloud</a></dt>
   <dd>
     Private Cloud-as-a-Service, powered by OpenStack. Developed internal and
     customer-facing tooling to enable deployment and management of private and
